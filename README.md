@@ -5,12 +5,8 @@
 <a href="https://www.instagram.com/arjun_kj25">
   <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Arjun's Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-</a>
-<!--a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+<a href="https://www.arjunaj.me">
+  <img align="left" alt="My Website" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/web.svg" />
 </a-->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=arjundhav.arjundhav)
