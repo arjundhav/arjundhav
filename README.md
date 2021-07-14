@@ -7,7 +7,7 @@
 </a>
 <a href="https://www.arjunaj.me">
   <img align="left" alt="My Website" width="22px" src="https://icons8.com/icon/87836/resume-website" />
-</a-->
+</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=arjundhav.arjundhav)
 
