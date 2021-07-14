@@ -13,7 +13,7 @@
 
 Hi, I'm [Arjun Jadhav](https://arjunaj.me/), a passionate self-taught Full Stack web developer and a freelance Web Developer from India. My passion for Web Designing lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the code quality,user responsive designs & best of my capabilities to the things I build.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+I am also an Machine Learning enthusiast & learned a lot from the open-source community.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
