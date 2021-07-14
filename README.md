@@ -5,7 +5,7 @@
 <a href="https://www.instagram.com/arjun_kj25">
   <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
-<a href="http://www.arjunaj.me">Portfolio</a> 
+ 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=arjundhav.arjundhav)
 
@@ -20,6 +20,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   
 - 💼 Any freelance work? Do reach, [email](mailto:arjundhav@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
+- 📔<a href="http://www.arjunaj.me">Portfolio</a>
 
 **Languages and Tools:**  
 
