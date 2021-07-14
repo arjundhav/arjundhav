@@ -6,7 +6,7 @@
   <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 <a href="https://www.arjunaj.me">
-  <img align="left" alt="My Website" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/web.svg" />
+  <img align="left" alt="My Website" width="22px" src="https://icons8.com/icon/87836/resume-website" />
 </a-->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=arjundhav.arjundhav)
