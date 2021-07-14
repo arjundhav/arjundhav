@@ -5,7 +5,7 @@
 <a href="https://www.instagram.com/arjun_kj25">
   <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
-<a target="www.arjunaj.me" href="https://icons8.com/icon/87836/resume-website">My Resume Website</a> <a target="_blank" href="https://icons8.com"> </a>
+<a href="http://www.arjunaj.me">Portfolio</a> 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=arjundhav.arjundhav)
 
