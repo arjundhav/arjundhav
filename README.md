@@ -23,7 +23,7 @@ I am also an Machine Learning enthusiast & learning a lot from the open-source c
 - 📔<a href="https://www.arjunaj.me">My Portfolio</a>
 - ⌨️<a href="https://g.dev/arjunaj">My Google Developer Profile<a>
  <br>
-**Languages and Tools:**  
+<h4>Languages and Tools:<h4>
 
 <!--code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code-->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
