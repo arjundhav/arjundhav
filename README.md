@@ -20,7 +20,7 @@ I am also an Machine Learning enthusiast & learning a lot from the open-source c
   
 - 💼 Any freelance work? Do reach, [email](mailto:arjundhav@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
-- 📔<a href="https://www.arjunaj.me">My Portfolio</a>
+- 📔<a href="https://arjundhav.github.io">My Portfolio</a>
 - ⌨️<a href="https://g.dev/arjunaj">My Google Developer Profile<a>
  <br>
 <h4>Languages and Tools:<h4>
@@ -29,6 +29,7 @@ I am also an Machine Learning enthusiast & learning a lot from the open-source c
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
