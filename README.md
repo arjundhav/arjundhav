@@ -20,9 +20,9 @@ I am also an Machine Learning enthusiast & learning a lot from the open-source c
   
 - 💼 Any freelance work? Do reach, [email](mailto:arjundhav@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help you;
-- 📔<a href="https://arjundhav.github.io">My Portfolio</a>
-- ⌨️<a href="https://g.dev/arjunaj">My Google Developer Profile<a>
--<a href="https://www.hackerrank.com/arjundhav">Hackerrank Profile<a>
+- 📔 <a href="https://arjundhav.github.io">My Portfolio</a>
+- ⌨️ <a href="https://g.dev/arjunaj">My Google Developer Profile<a>
+- ⌨️ <a href="https://www.hackerrank.com/arjundhav">Hackerrank Profile<a>
  <br>
 <h4>Languages and Tools:<h4>
 
