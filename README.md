@@ -19,9 +19,10 @@ I am also an Machine Learning enthusiast & learning a lot from the open-source c
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 Any freelance work? Do reach, [email](mailto:arjundhav@gmail.com) :)
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything, I am happy to help you;
 - 📔<a href="https://arjundhav.github.io">My Portfolio</a>
 - ⌨️<a href="https://g.dev/arjunaj">My Google Developer Profile<a>
+-<a href="https://www.hackerrank.com/arjundhav">Hackerrank Profile<a>
  <br>
 <h4>Languages and Tools:<h4>
 
@@ -34,5 +35,5 @@ I am also an Machine Learning enthusiast & learning a lot from the open-source c
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> -->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
