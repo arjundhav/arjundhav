@@ -11,9 +11,9 @@
 
 <br> 
 
-Hi, I'm [Arjun Jadhav](https://arjunaj.me/), a passionate self-taught Full Stack web developer and a freelance Web Developer from India. My passion for Web Designing lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the code quality,user responsive designs & best of my capabilities to the things I build.
+Hi, I'm [Arjun Jadhav](https://arjunaj.me/), a passionate self-taught Web developer and a freelance Web Developer from India. My passion for Web Designing lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the code quality,user responsive designs & best of my capabilities to the things I build.
 
-I am self learnt Full Stack Developer also an Machine Learning enthusiast & learning a lot from the open-source community.
+open-source community.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -21,7 +21,7 @@ I am self learnt Full Stack Developer also an Machine Learning enthusiast & lear
 - 💼 Any freelance work? Do reach, [email](mailto:arjundhav@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help you;
 - 📔 <a href="https://arjundhav.github.io">My Portfolio</a>
-- 💻 <a href="https://g.dev/arjunaj">My Google Developer Profile<a>
+- 💻 <a href="https://www.linkedin.com/in/kunajun77/">LinkedIn Profile<a>
 - 👨‍💻 <a href="https://www.hackerrank.com/arjundhav">Hackerrank Profile<a>
  <br>
 <h4>Languages and Tools:<h4>
