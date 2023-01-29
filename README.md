@@ -11,9 +11,7 @@
 
 <br> 
 
-Hi, I'm [Arjun Jadhav](https://arjunaj.me/), a passionate self-taught Web developer and a freelance Web Developer from India. My passion for Web Designing lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the code quality,user responsive designs & best of my capabilities to the things I build.
-
-open-source community.
+Hi, I'm [Arjun Jadhav] , a passionate self-taught Web developer and a freelance Web Developer from India.I am aspiring Python Developer aiming to contribute to co-orporate.I take great care in the code quality,user responsive designs & best of my capabilities to the things I build.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
