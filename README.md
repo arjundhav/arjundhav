@@ -16,8 +16,10 @@ Hi, I'm Arjun Jadhav , a passionate self-taught Web developer and a freelance We
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 Any freelance work? Do reach, [email](mailto:arjundhav@gmail.com) :)
-- 💬 Ask me about anything, I am happy to help you;
+- 📚 I'm constantly learning new skills and _striving for progress_
+- 🏆 Goal: Be the person I needed when I was younger
+- ⚡ Motto: _Keep striving for progress, not perfection_
+- 
 - 📔 <a href="https://arjundhav.github.io">My Portfolio</a>
 - 💻 <a href="https://www.linkedin.com/in/kunajun77/">LinkedIn Profile<a>
 - 👨‍💻 <a href="https://www.hackerrank.com/arjundhav">Hackerrank Profile<a>
