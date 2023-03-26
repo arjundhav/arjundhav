@@ -19,14 +19,16 @@ Hi, I'm Arjun Jadhav , a passionate self-taught Web developer and a freelance We
 - 📚 I'm constantly learning new skills and _striving for progress_
 - 🏆 Goal: Be the person I needed when I was younger
 - ⚡ Motto: _Keep striving for progress, not perfection_
-- 
+
 - 📔 <a href="https://arjundhav.github.io">My Portfolio</a>
 - 💻 <a href="https://www.linkedin.com/in/kunajun77/">LinkedIn Profile<a>
 - 👨‍💻 <a href="https://www.hackerrank.com/arjundhav">Hackerrank Profile<a>
  <br>
+  
+  
 <h4>Languages and Tools:<h4>
 
-<!--code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code-->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
