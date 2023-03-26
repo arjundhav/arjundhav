@@ -6,11 +6,9 @@
   <img align="left" alt="Arjun's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>  
 
-
-
 <br> 
-
-Hi, I'm Arjun Jadhav , a passionate self-taught Web developer and a freelance Web Developer from India.I am aspiring Python/Java Developer aiming to contribute to co-orporate.I take great care in the code quality,user responsive designs & best of my capabilities to the things I build.
+### I'm a Freelancer, Python/Java Full Stack Developer, Web Developer
+Hi, I'm , a passionate self-taught Web developer and a freelance Web Developer from India.I am aspiring Python/Java Developer aiming to contribute to co-orporate.I take great care in the code quality,user responsive designs & best of my capabilities to the things I build.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
