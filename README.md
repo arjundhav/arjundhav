@@ -1,7 +1,6 @@
 ### Hello and Welcome , I'm AJ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br> 
-
-### I'm a Full Stack Developer & DevOps Enthusiast
+  ### I'm a Full Stack Developer & DevOps Enthusiast
 
    _I'm , a passionate self-taught Full Stack Developer and a freelance Web Developer.I am aspiring Python/Java Developer aiming to contribute to co-orporate.Currently I am learning AWS DevOps_
 
