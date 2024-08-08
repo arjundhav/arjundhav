@@ -6,7 +6,7 @@
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 📚 I'm constantly learning new skills and _striving for progress_
-- 🏆 Goal: To be DevOps Engineer
+- 🏆 Goal: To be Cloud Architect
 - ⚡ Motto: _Keep striving for progress, not perfection_
 
 - 📔 <a href="https://arjundhav.github.io">My Portfolio</a>
